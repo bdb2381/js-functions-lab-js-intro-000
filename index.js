@@ -6,6 +6,7 @@ function happyHolidaysTo(Justine){
   return `Happy holidays, ${Justine}!`
 }
 
-function happyCustomHolidayTo(Ground, Justine){
+function happyCustomHolidayTo(holiday="Ground Hogs Day", name="Justine"){
+  var
   return `Happy ${holiday}, ${name}`
 }
